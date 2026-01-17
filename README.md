@@ -46,7 +46,6 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 ---
 
 ## 📂 Kluczowe Projekty
-*(Zmień linki poniżej na swoje realne repozytoria, gdy je stworzysz)*
 
 ### 🌲 [Cypress-E2E-Banking-Framework](https://github.com/Jakeb65/Cypress-E2E-Banking-Framework)
 Framework do testów regresyjnych z wykorzystaniem wzorca Page Object Model.
