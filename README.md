@@ -18,8 +18,12 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 
 ## 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jakeb65&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeb65&layout=compact&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jakeb65&show_icons=true&theme=visual_studio_dark&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeb65&layout=compact&theme=visual_studio_dark" />
+</p>
+
+<p align="left">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jakeb65&theme=visual_studio_dark" />
 </p>
 
 ---
