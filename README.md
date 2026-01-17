@@ -16,11 +16,6 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Jakeb65&theme=tokyonight)
-
----
-
 ## 🛠️ Stack Techniczny
 
 | Obszar | Technologie |
