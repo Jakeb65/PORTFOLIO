@@ -3,17 +3,17 @@
 
 <p align="left">
   <a href="mailto:jakubpedziwilk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/TWOJ-PROFIL-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/TWOJ-LINK" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 O mnie
-Jestem testerem zorientowanym technicznie, który wierzy, że **automatyzacja to nie tylko skrypty, ale element strategii dostarczania oprogramowania.** Na co dzień w **Comarch** dbam o jakość złożonych systemów bankowości korporacyjnej[cite: 8, 36].
+Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testowaniu złożonych systemów bankowości korporacyjnej w firmie **Comarch**. Specjalizuję się w łączeniu testów manualnych z zaawansowaną automatyzacją, dbając o najwyższą jakość techniczną projektów enterprise.
 
-* [cite_start]🔍 **Co robię:** Łączę manualne doświadczenie z automatyzacją w Cypress, aby budować stabilne i skalowalne frameworki testowe[cite: 9, 41].
-* [cite_start]🛠️ **Moje podejście:** Skupiam się na Root Cause Analysis – nie tylko znajduję błąd, ale analizuję logi i kod, by wskazać jego przyczynę[cite: 10, 19, 44].
-* [cite_start]📈 **Cel:** Optymalizacja procesów QA poprzez integrację testów API (REST/SOAP) i UI w procesy CI/CD[cite: 9, 15, 26].
+* 🔍 **Co robię:** Projektuję i wykonuję testy manualne oraz automatyczne (E2E) przy użyciu Cypress.
+* 🛠️ **Moje podejście:** Skupiam się na głębokiej analizie systemowej i walidacji na poziomie kodu (Root Cause Analysis).
+* ⚙️ **Technologie:** Swobodnie poruszam się w środowiskach API (REST/SOAP), bazach danych SQL oraz narzędziach takich jak Kafka czy Elasticsearch.
 
 ---
 
@@ -29,35 +29,37 @@ Jestem testerem zorientowanym technicznie, który wierzy, że **automatyzacja to
 
 | Obszar | Technologie |
 | :--- | :--- |
-| **Test Automation** | [cite_start]**Cypress** [cite: 25][cite_start], JavaScript, TypeScript [cite: 21][cite_start], Page Object Model [cite: 41] |
-| **API Testing** | [cite_start]**Postman**, SoapUI [cite: 25][cite_start], REST, SOAP (WSDL/XML) [cite: 39] |
-| **Database & Tools** | [cite_start]**SQL (Oracle, MySQL)** [cite: 23][cite_start], DBeaver, Kafka, Elasticsearch [cite: 27, 28] |
-| **CI/CD & DevOps** | [cite_start]**Git**, Jenkins [cite: 26][cite_start], Jira, Confluence, Linux [cite: 30] |
-| **Security & Performance** | [cite_start]Burp Suite [cite: 29][cite_start], JMeter [cite: 26] |
-
----
-
-## 📂 Kluczowe Projekty
-*(Zmień linki poniżej na swoje realne repozytoria)*
-
-### 🌲 [Cypress-E2E-Banking-Framework](https://github.com/TWOJ-USERNAME/repo-link)
-Framework do testów regresyjnych. [cite_start]Wykorzystuje wzorce POM i dynamiczne dane testowe[cite: 41, 50].
-
-### 🔌 [API-Testing-Automation](https://github.com/TWOJ-USERNAME/repo-link)
-[cite_start]Automatyzacja walidacji endpointów REST/SOAP z użyciem Postman i Newman[cite: 39].
+| **Test Automation** | **Cypress**, JavaScript, TypeScript, Page Object Model |
+| **API Testing** | **Postman**, SoapUI, REST, SOAP (WSDL/XML) |
+| **Languages** | JavaScript, TypeScript, **Java, C, C++**, SQL |
+| **Tools & Infrastructure** | **SQL (Oracle, MySQL)**, Git, Jenkins, Kafka, Elasticsearch, Linux |
+| **Security** | Burp Suite (Basic security testing) |
 
 ---
 
 ## 📜 Certyfikaty
-* [cite_start]🎓 **Cypress from Scratch** – Test Automation [cite: 57]
-* [cite_start]🎓 **Postman REST API Testing** from Scratch [cite: 57]
-* [cite_start]🤖 **GitHub Copilot** in the Work of a Software Tester [cite: 58]
+* 🎓 **Cypress from Scratch** – Test Automation
+* 🎓 **Postman REST API Testing** from Scratch
+* 🎓 **Practical Software Testing Course**
+* 🤖 **GitHub Copilot** in the Work of a Software Tester – Test Data Generation
+* 🤖 **AI in Testing** – Introduction
+
+---
+
+## 📂 Kluczowe Projekty
+*(Zmień linki poniżej na swoje realne repozytoria, gdy je stworzysz)*
+
+### 🌲 [Cypress-E2E-Banking-Framework](https://github.com/TWOJ-USERNAME/repo-link)
+Framework do testów regresyjnych z wykorzystaniem wzorca Page Object Model.
+
+### 🔌 [API-Testing-Automation](https://github.com/TWOJ-USERNAME/repo-link)
+Automatyzacja walidacji endpointów REST/SOAP z użyciem Postman i Newman.
 
 ---
 
 ## 📫 Kontakt
-* [cite_start]**Email:** [jakubpedziwilk@gmail.com](mailto:jakubpedziwilk@gmail.com) [cite: 5]
-* [cite_start]**Lokalizacja:** Polska [cite: 3]
+* **Email:** [jakubpedziwilk@gmail.com](mailto:jakubpedziwilk@gmail.com)
+* **Lokalizacja:** Polska (Kielce / Zdalnie)
 
 ---
 *„Quality is not an act, it is a habit.”*
