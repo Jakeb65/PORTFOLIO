@@ -2,9 +2,6 @@
 ### QA & Automation Tester | Technical-oriented QA Engineer
 
 <p align="left">
-  <a href="mailto:jakubpedziwilk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jakubpedziwilk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jakubpedziwilk@gmail.com" />
-  </a>
   <a href="https://linkedin.com/in/jakub-pędziwilk-b98bb22a5/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -60,7 +57,7 @@ Automatyzacja walidacji endpointów REST/SOAP z użyciem Postman i Newman.
 ---
 
 ## 📫 Kontakt
-* [cite_start] **Email**: [jakubpedziwilk@gmail.com](mailto:jakubpedziwilk@gmail.com) [cite: 5]
+* **Email**: [jakubpedziwilk@gmail.com](mailto:jakubpedziwilk@gmail.com)
 * **Lokalizacja:** Polska (Kielce / Zdalnie) 
 
 ---
