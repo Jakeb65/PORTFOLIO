@@ -7,18 +7,18 @@
 
 ---
 
-## 🚀 O mnie
-Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testowaniu złożonych systemów bankowości korporacyjnej w firmie **Comarch**. Specjalizuję się w łączeniu testów manualnych z zaawansowaną automatyzacją, dbając o najwyższą jakość techniczną projektów enterprise.
+## 🚀 About Me
+I am a technically oriented tester with commercial experience in testing complex corporate banking systems at **Comarch**. I specialize in combining manual testing with advanced automation, ensuring the highest technical quality of enterprise projects.
 
-* 🔍 **Co robię:** Projektuję i wykonuję testy manualne oraz automatyczne (E2E) przy użyciu Cypress.
-* 🛠️ **Moje podejście:** Skupiam się na głębokiej analizie systemowej i walidacji na poziomie kodu (Root Cause Analysis).
-* ⚙️ **Technologie:** Swobodnie poruszam się w środowiskach API (REST/SOAP), bazach danych SQL oraz narzędziach takich jak Kafka czy Elasticsearch.
+* 🔍 **What I do:** I design and execute manual and automated (E2E) tests using Cypress.
+* 🛠️ **My approach:** I focus on deep system analysis and code-level validation (Root Cause Analysis).
+* ⚙️ **Technologies:** I am proficient in API environments (REST/SOAP), SQL databases, and tools such as Kafka or Elasticsearch.
 
 ---
 
-## 🛠️ Stack Techniczny
+## 🛠️ Tech Stack
 
-| Obszar | Technologie |
+| Area | Technologies |
 | :--- | :--- |
 | **Test Automation** | **Cypress**, JavaScript, TypeScript, Page Object Model |
 | **API Testing** | **Postman**, SoapUI, REST, SOAP (WSDL/XML) |
@@ -28,7 +28,7 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 
 ---
 
-## 📜 Certyfikaty
+## 📜 Certifications
 * 🎓 **Cypress from Scratch** – Test Automation
 * 🎓 **Postman REST API Testing** from Scratch
 * 🎓 **Practical Software Testing Course**
@@ -37,19 +37,19 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 
 ---
 
-## 📂 Kluczowe Projekty
+## 📂 Key Projects
 
 ### 🌲 [Cypress-E2E-Banking-Framework](https://github.com/Jakeb65/Cypress-E2E-Banking-Framework)
-Framework do testów regresyjnych z wykorzystaniem wzorca Page Object Model.
+Regression testing framework using the Page Object Model pattern.
 
 ### 🔌 [API-Testing-Automation](https://github.com/Jakeb65/API-Testing-Automation)
-Automatyzacja walidacji endpointów REST/SOAP z użyciem Postman i Newman.
+Automation of REST/SOAP endpoint validation using Postman and Newman.
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 * **Email**: [jakubpedziwilk@gmail.com](mailto:jakubpedziwilk@gmail.com)
-* **Lokalizacja:** Polska (Kielce / Zdalnie) 
+* **Location:** Poland (Kielce / Remote) 
 
 ---
 *„Quality is not an act, it is a habit.”*
