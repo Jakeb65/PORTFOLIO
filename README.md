@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="mailto:jakubpedziwilk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/TWOJ-LINK" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jakub-pędziwilk-b98bb22a5/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,8 +19,8 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 
 ## 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWOJ-USERNAME&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ-USERNAME&layout=compact&theme=visual_studio_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jakeb65&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakeb65&layout=compact&theme=visual_studio_dark" />
 </p>
 
 ---
@@ -49,10 +49,10 @@ Jestem testerem zorientowanym technicznie z doświadczeniem komercyjnym w testow
 ## 📂 Kluczowe Projekty
 *(Zmień linki poniżej na swoje realne repozytoria, gdy je stworzysz)*
 
-### 🌲 [Cypress-E2E-Banking-Framework](https://github.com/TWOJ-USERNAME/repo-link)
+### 🌲 [Cypress-E2E-Banking-Framework](https://github.com/Jakeb65/Cypress-E2E-Banking-Framework)
 Framework do testów regresyjnych z wykorzystaniem wzorca Page Object Model.
 
-### 🔌 [API-Testing-Automation](https://github.com/TWOJ-USERNAME/repo-link)
+### 🔌 [API-Testing-Automation](https://github.com/Jakeb65/API-Testing-Automation)
 Automatyzacja walidacji endpointów REST/SOAP z użyciem Postman i Newman.
 
 ---
